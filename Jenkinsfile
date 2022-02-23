@@ -1,4 +1,5 @@
 #!/usr/bin/env groovy
+#RJACOB
 pipeline {
     agent { node { label 'swarm-ci' } }
 
